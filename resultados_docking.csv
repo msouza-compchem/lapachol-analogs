@@ -1,0 +1,28 @@
+﻿ligand_id,id,nome,estado,logP_Crippen,logD7_4_aprox,escore_modo1,core_rmsd_modo1,d_centroide_modo1,angulo_planos_modo1,d_N5_modo1,d_min_FAD_modo1,n_modos,n_modos_tipo_ref,melhor_escore_tipo_ref,modo_tipo_ref,delta_escore_vs_L00_mesmo_estado
+L00_neutro,L00,Lapachol (referencia),neutro,3.23,1.33,-6.02,0.75,4.01,1.8,3.59,3.54,8,6,-6.02,1,0.0
+L00_anion,L00,Lapachol (referencia),anion,3.23,1.33,-6.07,0.38,3.82,2.0,3.5,3.49,9,4,-6.07,1,0.0
+L01_neutro,L01,Lawsone (sem prenil),neutro,1.51,-1.89,-5.3,1.51,4.26,0.8,3.81,3.56,8,3,-5.3,1,0.72
+L01_anion,L01,Lawsone (sem prenil),anion,1.51,-1.89,-5.45,1.57,4.28,0.7,3.82,3.55,9,4,-5.45,1,0.62
+L02_neutro,L02,Norlapachol,neutro,2.84,0.94,-5.92,1.4,3.85,2.6,3.47,3.46,9,3,-5.92,1,0.1
+L02_anion,L02,Norlapachol,anion,2.84,0.94,-6.05,0.74,3.76,0.9,3.54,3.41,9,3,-6.05,1,0.02
+L03_neutro,L03,Dihidrolapachol,neutro,3.31,1.41,-5.66,0.22,3.72,1.5,3.59,3.53,9,5,-5.66,1,0.36
+L03_anion,L03,Dihidrolapachol,anion,3.31,1.41,-5.78,0.32,3.72,0.8,3.63,3.55,9,3,-5.78,1,0.29
+L04_neutro,L04,3-butil-2-hidroxi-NQ,neutro,3.07,1.16,-5.6,0.72,3.89,2.0,3.57,3.57,8,3,-5.6,1,0.42
+L04_anion,L04,3-butil-2-hidroxi-NQ,anion,3.07,1.16,-5.81,0.39,3.83,2.0,3.51,3.51,8,3,-5.81,1,0.26
+L05_neutro,L05,Geranil-analogo (C10),neutro,4.96,3.06,-5.55,0.83,4.01,1.0,3.56,3.55,9,7,-5.55,1,0.47
+L05_anion,L05,Geranil-analogo (C10),anion,4.96,3.06,-5.64,0.44,3.8,3.2,3.44,3.44,9,5,-5.64,1,0.43
+L06_neutro,L06,3-(3-hidroxi-3-metilbutil),neutro,2.43,0.52,-5.74,0.82,3.72,1.2,3.61,3.55,9,6,-5.74,1,0.28
+L06_anion,L06,3-(3-hidroxi-3-metilbutil),anion,2.43,0.52,-5.86,0.84,3.69,1.5,3.61,3.53,9,5,-5.86,1,0.21
+L07_neutro,L07,beta-Lapachona,neutro,2.75,2.75,-6.89,2.66,3.73,3.5,3.68,3.5,8,3,-6.27,4,-0.87
+L08_neutro,L08,alfa-Lapachona,neutro,2.91,2.91,-6.59,2.45,3.64,3.5,3.59,3.47,9,2,-5.97,6,-0.57
+L09_neutro,L09,2-Metoxi-lapachol,neutro,3.32,3.32,-5.97,0.07,3.74,2.1,3.56,3.43,9,5,-5.97,1,0.05
+L10_neutro,L10,Acetato de lapachol,neutro,3.24,3.24,-6.05,0.44,3.85,0.7,3.52,3.44,9,4,-6.05,1,-0.03
+L11_neutro,L11,2-Amino-3-prenil-NQ,neutro,2.63,2.63,-6.06,0.7,3.97,1.0,3.57,3.51,9,6,-6.06,1,-0.04
+L12_neutro,L12,2-(Metilamino)-3-prenil-NQ,neutro,2.9,2.9,-6.05,0.16,3.79,2.0,3.56,3.53,9,4,-6.05,1,-0.03
+L13_neutro,L13,2-Metil-3-prenil-NQ,neutro,3.74,3.74,-6.14,0.06,3.74,2.4,3.55,3.55,9,5,-6.14,1,-0.12
+L14_neutro,L14,7-Fluoro-lapachol,neutro,3.37,1.47,-6.21,0.72,4.01,0.6,3.58,3.54,9,5,-6.21,1,-0.19
+L14_anion,L14,7-Fluoro-lapachol,anion,3.37,1.47,-6.2,0.57,3.92,5.3,3.56,3.42,9,4,-6.2,1,-0.13
+L15_neutro,L15,6-Cloro-lapachol,neutro,3.89,1.98,-6.26,0.72,3.98,0.9,3.57,3.52,9,6,-6.26,1,-0.24
+L15_anion,L15,6-Cloro-lapachol,anion,3.89,1.98,-6.22,0.62,3.9,2.3,3.51,3.41,9,6,-6.22,1,-0.15
+L16_neutro,L16,5-Hidroxi-lapachol,neutro,2.94,1.03,-5.98,0.7,3.99,1.0,3.61,3.52,9,5,-5.98,1,0.04
+L16_anion,L16,5-Hidroxi-lapachol,anion,2.94,1.03,-5.9,2.12,4.09,4.2,3.85,3.35,9,2,-5.88,2,0.17

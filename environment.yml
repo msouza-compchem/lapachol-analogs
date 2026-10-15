@@ -1,0 +1,12 @@
+name: lapachol
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - pandas
+  - rdkit
+  - meeko
+  - gemmi
+  - vina      # AutoDock Vina 1.2.7; the scripts call the `vina` executable
+  - xtb       # GFN2-xTB 6.7.x

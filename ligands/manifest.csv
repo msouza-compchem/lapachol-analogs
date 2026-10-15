@@ -1,0 +1,29 @@
+ligand_id,id,nome,estado,carga_formal,torsoes,smiles_docado,pdbqt
+L00_neutro,L00,Lapachol (referencia),neutro,0,3,CC(C)=CCC1=C(O)C(=O)c2ccccc2C1=O,ligands/L00_neutro.pdbqt
+L00_anion,L00,Lapachol (referencia),anion,-1,2,CC(C)=CCC1=C([O-])C(=O)c2ccccc2C1=O,ligands/L00_anion.pdbqt
+L01_neutro,L01,Lawsone (sem prenil),neutro,0,1,O=C1C=C(O)C(=O)c2ccccc21,ligands/L01_neutro.pdbqt
+L01_anion,L01,Lawsone (sem prenil),anion,-1,0,O=C1C=C([O-])C(=O)c2ccccc21,ligands/L01_anion.pdbqt
+L02_neutro,L02,Norlapachol,neutro,0,2,CC(C)=CC1=C(O)C(=O)c2ccccc2C1=O,ligands/L02_neutro.pdbqt
+L02_anion,L02,Norlapachol,anion,-1,1,CC(C)=CC1=C([O-])C(=O)c2ccccc2C1=O,ligands/L02_anion.pdbqt
+L03_neutro,L03,Dihidrolapachol,neutro,0,4,CC(C)CCC1=C(O)C(=O)c2ccccc2C1=O,ligands/L03_neutro.pdbqt
+L03_anion,L03,Dihidrolapachol,anion,-1,3,CC(C)CCC1=C([O-])C(=O)c2ccccc2C1=O,ligands/L03_anion.pdbqt
+L04_neutro,L04,3-butil-2-hidroxi-NQ,neutro,0,4,CCCCC1=C(O)C(=O)c2ccccc2C1=O,ligands/L04_neutro.pdbqt
+L04_anion,L04,3-butil-2-hidroxi-NQ,anion,-1,3,CCCCC1=C([O-])C(=O)c2ccccc2C1=O,ligands/L04_anion.pdbqt
+L05_neutro,L05,Geranil-analogo (C10),neutro,0,6,CC(C)=CCCC(C)=CCC1=C(O)C(=O)c2ccccc2C1=O,ligands/L05_neutro.pdbqt
+L05_anion,L05,Geranil-analogo (C10),anion,-1,5,CC(C)=CCCC(C)=CCC1=C([O-])C(=O)c2ccccc2C1=O,ligands/L05_anion.pdbqt
+L06_neutro,L06,3-(3-hidroxi-3-metilbutil),neutro,0,5,CC(C)(O)CCC1=C(O)C(=O)c2ccccc2C1=O,ligands/L06_neutro.pdbqt
+L06_anion,L06,3-(3-hidroxi-3-metilbutil),anion,-1,4,CC(C)(O)CCC1=C([O-])C(=O)c2ccccc2C1=O,ligands/L06_anion.pdbqt
+L07_neutro,L07,beta-Lapachona,neutro,0,0,CC1(C)CCC2=C(O1)c1ccccc1C(=O)C2=O,ligands/L07_neutro.pdbqt
+L08_neutro,L08,alfa-Lapachona,neutro,0,0,CC1(C)CCC2=C(O1)C(=O)c1ccccc1C2=O,ligands/L08_neutro.pdbqt
+L09_neutro,L09,2-Metoxi-lapachol,neutro,0,3,COC1=C(CC=C(C)C)C(=O)c2ccccc2C1=O,ligands/L09_neutro.pdbqt
+L10_neutro,L10,Acetato de lapachol,neutro,0,4,CC(=O)OC1=C(CC=C(C)C)C(=O)c2ccccc2C1=O,ligands/L10_neutro.pdbqt
+L11_neutro,L11,2-Amino-3-prenil-NQ,neutro,0,3,CC(C)=CCC1=C(N)C(=O)c2ccccc2C1=O,ligands/L11_neutro.pdbqt
+L12_neutro,L12,2-(Metilamino)-3-prenil-NQ,neutro,0,3,CNC1=C(CC=C(C)C)C(=O)c2ccccc2C1=O,ligands/L12_neutro.pdbqt
+L13_neutro,L13,2-Metil-3-prenil-NQ,neutro,0,2,CC(C)=CCC1=C(C)C(=O)c2ccccc2C1=O,ligands/L13_neutro.pdbqt
+L14_neutro,L14,7-Fluoro-lapachol,neutro,0,3,CC(C)=CCC1=C(O)C(=O)c2cc(F)ccc2C1=O,ligands/L14_neutro.pdbqt
+L14_anion,L14,7-Fluoro-lapachol,anion,-1,2,CC(C)=CCC1=C([O-])C(=O)c2cc(F)ccc2C1=O,ligands/L14_anion.pdbqt
+L15_neutro,L15,6-Cloro-lapachol,neutro,0,3,CC(C)=CCC1=C(O)C(=O)c2ccc(Cl)cc2C1=O,ligands/L15_neutro.pdbqt
+L15_anion,L15,6-Cloro-lapachol,anion,-1,2,CC(C)=CCC1=C([O-])C(=O)c2ccc(Cl)cc2C1=O,ligands/L15_anion.pdbqt
+L16_neutro,L16,5-Hidroxi-lapachol,neutro,0,4,CC(C)=CCC1=C(O)C(=O)c2cccc(O)c2C1=O,ligands/L16_neutro.pdbqt
+L16_anion,L16,5-Hidroxi-lapachol,anion,-1,3,CC(C)=CCC1=C([O-])C(=O)c2cccc(O)c2C1=O,ligands/L16_anion.pdbqt
+CTRL_DQN_neutro,CTRL_DQN,Duroquinona (controle de redocking),neutro,0,0,CC1=C(C)C(=O)C(C)=C(C)C1=O,ligands/CTRL_DQN_neutro.pdbqt
